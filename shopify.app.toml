@@ -4,7 +4,7 @@ client_id = "12fbebb04b290098c6f39cd889a4ae52"
 
 name = "satyapujith"
 handle = "promotional-banner-app-satyapujith-2025"
-application_url = "https://promotional-banner-p5jarxvgp-satyapujiths-projects.vercel.app"
+application_url = "https://promotional-banner-app-liard.vercel.app"
 embedded = true
 
 [build]
@@ -18,8 +18,8 @@ scopes = "write_themes,read_themes"
 
 [auth]
 redirect_urls = [
-  "https://promotional-banner-p5jarxvgp-satyapujiths-projects.vercel.app/auth/callback",
-  "https://promotional-banner-p5jarxvgp-satyapujiths-projects.vercel.app/auth/shopify/callback"
+  "https://promotional-banner-app-liard.vercel.app/auth/callback",
+  "https://promotional-banner-app-liard.vercel.app/auth/shopify/callback"
 ]
 
 [pos]
